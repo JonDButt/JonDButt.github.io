@@ -5,8 +5,8 @@
     <link>https://JonDButt.github.io/categories/r/</link>
     <description>Recent content in R on Jon Butt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
-    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <managingEditor>jon.d.butt@gmail.com</managingEditor>
+    <webMaster>jon.d.butt@gmail.com</webMaster>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="https://JonDButt.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
@@ -16,7 +16,7 @@
       <title>Hello R Markdown</title>
       <link>https://JonDButt.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
+      <author>jon.d.butt@gmail.com</author>
       <guid>https://JonDButt.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
