@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Playing with Data</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Playing with Data</description>
+    <title>Categories on Jon Butt</title>
+    <link>https://JonDButt.github.io/categories/</link>
+    <description>Recent content in Categories on Jon Butt</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>Jon.d.butt@gmail.com (Jon Butt)</managingEditor>
-    <webMaster>Jon.d.butt@gmail.com (Jon Butt)</webMaster>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://JonDButt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>https://JonDButt.github.io/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <author>Jon.d.butt@gmail.com (Jon Butt)</author>
-      <guid>/categories/r/</guid>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://JonDButt.github.io/categories/r/</guid>
       <description></description>
     </item>
     
