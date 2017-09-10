@@ -3,153 +3,178 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://JonDButt.github.io/post/2017-03-20-photoswipe-gallery-sample/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/project/project1/</loc>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2017-03-07-bigimg-sample/</loc>
-    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/project/project2/</loc>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2017-03-05-math-sample/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/project/project3/</loc>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2016-03-08-code-sample/</loc>
-    <lastmod>2016-03-08T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/project/project4/</loc>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>http://jondbutt.com/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2015-02-26-flake-it-till-you-make-it/</loc>
-    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2015-02-20-test-markdown/</loc>
-    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2015-02-13-hamlet-monologue/</loc>
-    <lastmod>2015-02-13T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2015-01-27-dear-diary/</loc>
-    <lastmod>2015-01-27T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/2015-01-19-soccer/</loc>
-    <lastmod>2015-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JonDButt.github.io/post/2015-01-15-pirates/</loc>
-    <lastmod>2015-01-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JonDButt.github.io/post/2015-01-04-first-post/</loc>
-    <lastmod>2015-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JonDButt.github.io/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://JonDButt.github.io/page/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://JonDButt.github.io/tags/bigimg/</loc>
-    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/categories/</loc>
+    <loc>http://jondbutt.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/code/</loc>
-    <lastmod>2016-03-08T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/css/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/example/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/markdown/</loc>
-    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/math/</loc>
-    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/page/</loc>
+    <loc>http://jondbutt.com/tags/highlight-js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/photoswipe/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/html/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/plot/</loc>
+    <loc>http://jondbutt.com/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/post/</loc>
-    <lastmod>2017-03-20T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/js/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/categories/r/</loc>
+    <loc>http://jondbutt.com/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/r-markdown/</loc>
+    <loc>http://jondbutt.com/post/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/regression/</loc>
+    <loc>http://jondbutt.com/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://JonDButt.github.io/tags/</loc>
-    <lastmod>2017-03-07T00:00:00+00:00</lastmod>
+    <loc>http://jondbutt.com/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/responsive/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/syntax-highlighting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jondbutt.com/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
